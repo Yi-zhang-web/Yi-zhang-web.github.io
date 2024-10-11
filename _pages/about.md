@@ -1,4 +1,4 @@
-![WeChat](https://github.com/user-attachments/assets/aa878ce4-94af-4972-96ca-3aa8342dcf13)---
+---
 permalink: /
 title: ""
 author_profile: true
