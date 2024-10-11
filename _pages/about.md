@@ -14,4 +14,4 @@ You can find my CV here: [Yi Zhang's CV](../assets/CV.pdf)
 
 Contact
 ------
-+86 159-195-23456 / [Wechat](../images/wechat.jpg)
++86 159-195-23456 / [Wechat](../images/wechat.png)
