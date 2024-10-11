@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hello! I am a PhD candidate in the College of Environmental Science and Engineering at [Nankai University](https://env.nankai.edu.cn/) (NKU). I started in Sept. 2021 and am supervised by Prof. He Xu. My research interests lie in Environmental Management & Policies and Sustainable Urban Planning. 
 
-You can find my CV here:
+You can find my CV here:[Yi Zhang's CV](../assets/CV.pdf)
 ------
 
 Contact
