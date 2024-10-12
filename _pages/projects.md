@@ -17,7 +17,7 @@ redirect_from:
 <br>
 * **2021/12-2022/12: Ecological and Environmental Impact Analysis of Major Economic and Technical Policies**
   * Pilot Project of Ministry of Ecology and Environment
-  * Conducted policy environmental impact assessment for the "Desalination Development Action Plan (2021-2025) ".
+  * Conducted policy environmental impact assessment for the "Desalination Development Action Plan (2021-2025)".
   * Co-authored the case brief "Pilot Analysis of the Ecological and Environmental Impact of Desalination Policies," submitted to the Environmental Impact Assessment Department of the Ministry of Ecology and Environment.
   * Co-authored one SSCI Q1 paper.
 <br>
