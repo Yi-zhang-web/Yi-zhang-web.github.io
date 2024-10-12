@@ -1,4 +1,6 @@
 ---
+<br>
+
 permalink: /
 title: "Biography"
 author_profile: true
