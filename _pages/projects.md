@@ -11,9 +11,9 @@ redirect_from:
 
 * **2023/08-present: Research on Synergistic Effects of Solid Waste Recycling for Pollution Control and Carbon Reduction and Its Realization Mechanisms in the Context of "Zero-Waste" City Construction**
   * National Natural Science Foundation Project
-  * Developed a quantitative evaluation method for the synergistic benefits of pollution control and carbon reduction from solid waste resource utilization in cities.
+  * Developed a quantitative evaluation method for the synergistic benefits of pollution control and carbon reduction from city solid waste resource utilisation.
   * Conducted multi-scenario policy simulation to accurately identify the paths for achieving synergy in pollution control and carbon reduction from solid waste resource utilization.
-  * Published one SCI Q1 paper as the first author and co-authored one SSCI Q1 paper.
+  * Published one SCI Q1 paper as the first author and co-authored two SSCI Q1 papers.
 <br>
 * **2021/12-2022/12: Ecological and Environmental Impact Analysis of Major Economic and Technical Policies**
   * Pilot Project of Ministry of Ecology and Environment
@@ -33,7 +33,7 @@ redirect_from:
 <br>
 * **2018/10-2021/11: Non-destructive Disassembly and Safe Reuse Technology for End of life Mobile Devices**
   * National Key Research and Development Program
-  * Established a key component product feature model and detailed classification database, as well as a management information system and an intelligent precise disassembly process database for typical mobile terminal products.
+  * Established a key component product feature model and detailed classification database, a management information system and an intelligent precise disassembly process database for typical mobile terminal products.
 <br>
 * **2018/08-2021/04: Research on Ecological Environmental Risk Prevention System Based on Spatial Control**
   * Major Project of the National Social Science Fund
